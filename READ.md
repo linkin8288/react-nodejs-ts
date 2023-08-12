@@ -9,3 +9,5 @@
 5. install mongoose and connect the mongodb database.
 
 6. app.use(express.json()); this line of code is used in an Express.js application to enable the middleware that parses incoming JSON data from HTTP requests.
+
+7. By adding the cors middleware to your Express application, you can control and manage cross-origin requests to your server.
